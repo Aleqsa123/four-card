@@ -32,8 +32,8 @@ and this is a mobile version screenshot: ![](./screenshots/mobile-screenshot.png
 
 ### Links
 
-- Solution URL: [https://github.com/Aleqsa123/typemaster]
-- Live Site URL: [https://aleqsa123.github.io/typemaster/]
+- Solution URL: [https://github.com/Aleqsa123/four-card]
+- Live Site URL: [https://aleqsa123.github.io/four-card/]
 
 ## My process
 
@@ -55,6 +55,7 @@ I enhanced my knowledge in backgrounding, especially in linear backgrounding, al
 .blue {
     background: linear-gradient(180deg, rgba(84,158,242,1) 1.6%, rgba(255,255,255,1) 1.6%);
 }
+```
 
 ### Continued development
 
@@ -65,9 +66,10 @@ It is time using javascript in projects.
 
 (https://cssgradient.io/) - This is amazing site which helped me making linear backgrounding.
 
+
 ## Author
 
-- Frontendmentor - [Aleqsa123] (https://www.frontendmentor.io/profile/Aleqsa123)
 - Github - [Aleqsa123](https://github.com/Aleqsa123)
 - Linkedin - [Aleksi Merebashvili](https://www.linkedin.com/in/aleksi-merebashvili-36627426/)
 - Facebook - [Aleksi Merebashvili](https://www.facebook.com/aleksi.merebashvili)
+- Frontendmentor - [Aleqsa123] (https://www.frontendmentor.io/profile/Aleqsa123)
